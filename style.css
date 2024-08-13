@@ -1,0 +1,10 @@
+.mobile-nav.open {display: block;}
+.hero-section {
+  background-image: linear-gradient(
+      rgba(97, 182, 216, 0.2),
+      rgba(79, 158, 189, 0.2)),
+    url(https://preview.colorlib.com/theme/depot/images/depot_hero_1.jpg)
+}
+
+.cards .card {flex-basis: 250px;}
+
